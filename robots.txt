@@ -1,0 +1,6 @@
+# 
+# Hi,robot! Version 1.0
+#
+
+user-agent: *
+disallow: *
