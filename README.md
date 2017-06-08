@@ -1,2 +1,2 @@
-#guojikai
+#guojikai.com
 guojikai.com
