@@ -1,2 +1,3 @@
-#guojikai.com
 guojikai.com
+======
+repository for guojikai.com
